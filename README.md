@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Web Development Projects!
 <!--
 **Halima1872/Halima1872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
