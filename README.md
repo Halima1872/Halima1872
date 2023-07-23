@@ -1,3 +1,5 @@
+![Purple Sky Profile Header](https://github.com/Halima1872/Halima1872/assets/80054554/f151f1b2-2968-4340-bef4-adae7bacceeb)
+
 ### Hi there 👋
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Web Development Projects!
