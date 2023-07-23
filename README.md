@@ -1,6 +1,4 @@
-
-![Header](![Purple Sky Profile Header](https://github.com/Halima1872/Halima1872/assets/80054554/0dc1466f-06e5-403e-8780-9852228c24f3)
-
+![Header](C:\Users\Halima\Downloads\Purple Sky Profile Header.png)
 
 ### Hi there 👋
 - 🌱 I’m currently learning Flutter
