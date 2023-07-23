@@ -1,4 +1,6 @@
-![Purple Sky Profile Header](https://github.com/Halima1872/Halima1872/assets/80054554/f151f1b2-2968-4340-bef4-adae7bacceeb)
+
+![Header](![Purple Sky Profile Header](https://github.com/Halima1872/Halima1872/assets/80054554/0dc1466f-06e5-403e-8780-9852228c24f3)
+
 
 ### Hi there 👋
 - 🌱 I’m currently learning Flutter
