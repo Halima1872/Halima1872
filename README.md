@@ -1,5 +1,7 @@
 ![Header](https://github.com/Halima1872/Halima1872/assets/80054554/f63e7cbe-2702-4914-bca7-570c9dd7759b)
 
+<img src="https://github.com/Halima1872/Halima1872/assets/80054554/f63e7cbe-2702-4914-bca7-570c9dd7759b" >
+
 
 <h1 align="center">Hi 👋, I'm Halima Rajwani</h1>
 <h3 align="center">I am a passionate and motivated final-year student studying Computer Engineering, with a keen interest in problem-solving and software development</h3>
