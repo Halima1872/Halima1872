@@ -1,6 +1,6 @@
-![Header align="center"](https://github.com/Halima1872/Halima1872/assets/80054554/f63e7cbe-2702-4914-bca7-570c9dd7759b)
-![Header](![github-header-image (4)](https://github.com/Halima1872/Halima1872/assets/80054554/fe39cbb8-12b0-439b-b571-d0eae7081449)
-)
+
+(![github-header-image (4)](https://github.com/Halima1872/Halima1872/assets/80054554/fe39cbb8-12b0-439b-b571-d0eae7081449)
+
 
 
 <h1 align="center">Hi 👋, I'm Halima Rajwani</h1>
