@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rajwanihalima9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wbw58mQBsuEH0grFk1pJh3wv4-DgjHVL/view?usp=sharing](https://drive.google.com/file/d/1iZ3TmPCorUVXuQk_N635YGQLh-Zd1ZUx/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wbw58mQBsuEH0grFk1pJh3wv4-DgjHVL/view?usp=sharing](https://drive.google.com/file/d/1-6BZIC_LeoHLgAqc8hqV2H4Bir2NngVG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
